@@ -1,0 +1,4 @@
+Dificuldades:
+Novidades: 
+
+
