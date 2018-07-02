@@ -3,3 +3,6 @@ Dificuldades: no começo penei para executar o primeiro comando para baixar o sc
 Novidades: não conhecia essa aplicação BWAPP.
 
 Na sala, segui os passos dos alunos que apresentaram e fiz ambos os modos, remoto e não remoto. Na parte remota consegui instalar a aplicação, fazer o upload do arquivo shell.php e ter acesso a maquina. Explorei um pouco o conteúdo dos diretórios através de comandos do shell do linux. Além disso vi quais processos estavam executando e informações como versão do sistema, nome do host, etc.
+
+<img src="https://github.com/calebetaap/SegInfo/blob/master/Pratica_RemoteFileInclusion/imagens/Captura%20de%20tela%20de%202018-05-29%2020-48-21.png"/>
+<img src="https://github.com/calebetaap/SegInfo/blob/master/Pratica_RemoteFileInclusion/imagens/Captura%20de%20tela%20de%202018-05-29%2020-49-15.png"/>
