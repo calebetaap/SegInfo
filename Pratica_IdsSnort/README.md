@@ -1,0 +1,2 @@
+A prática foi realizada em uma máquina virtual com ubuntu 18.04. Foi uma prática bem simples. No tutorial está muito bem resumido e simplificado. Instalei o snort e em seguida a rede foi definida usando o ip da minha máquina virtual. Após isso apenas restartei o serviço e coloquei para ele monitorar a rede através do comando: snort -v. Após isso depois o deixei em modo de detecção de ataques usando o seguinte comando que espera que algum tipo de anomalia aconteça:  snort -q -A console -i (interface do IP) -c /etc/snort/snort.conf
+
